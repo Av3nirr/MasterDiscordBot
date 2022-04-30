@@ -1,9 +1,9 @@
 {
     "token": "",
-    "clientId": ""
-    "guildId": ""
+    "clientId": "",
+    "guildId": "",
     "footer": "Bot by Av3nir",
-    "ticket_parent": ""
+    "ticket_parent": "",
     "staff_role": "",
     "logs_channel": ""
 }
