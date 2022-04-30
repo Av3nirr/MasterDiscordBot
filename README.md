@@ -14,7 +14,7 @@ Master Discords Bot requires [Node.js](https://nodejs.org/) to run.
 
 Open and configure the ```config.json``` file
 
-Install the dependencies and devDependencies and start the server.
+Install the dependencies.
 
 ```sh
 cd MasterDiscordBot
