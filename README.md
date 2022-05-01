@@ -20,7 +20,7 @@ Install the dependencies.
 cd MasterDiscordBot
 npm install discord.js
 npm install @discordjs/builders
-npm install discord-api-types/v9
+npm install discord-api-types
 ```
 
 Start ```deploy-commands.js``` file only one time.
