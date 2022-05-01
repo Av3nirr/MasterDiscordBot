@@ -19,6 +19,7 @@ Install the dependencies.
 ```sh
 cd MasterDiscordBot
 npm install discord.js
+npm install @discordjs/rest
 npm install @discordjs/builders
 npm install discord-api-types
 ```
